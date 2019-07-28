@@ -1,6 +1,6 @@
 # BandagedBD-TinyCozyCord-Extra-Dark
 
-![TinyCozyCord In Action](https://cdn.discordapp.com/attachments/488851320447434752/604645974446702612/discord3.gif)
+![TinyCozyCord In Action](https://raw.githubusercontent.com/songbird-claire/BandagedBD-TinyCozyCord-Extra-Dark/master/discord3.gif)
 
 This is a *BandagedBetterDiscord* Theme to make cozy view more compact, darker, and prettier. :D
 Do not use with light theme or compact view. Requires BandagedBetterDiscord: https://github.com/rauenzi/BetterDiscordApp
