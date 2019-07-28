@@ -6,6 +6,7 @@ Do not use with light theme or compact view. Requires BandagedBetterDiscord: htt
 
   **How To Install:**
   **===============**
+  
   1) Save the "theme.css" file to "%appdata%/BetterDiscord/themes"
   2) Click the Gear (Settings) -> BetterDiscord -> Themes 
   3) Enable "TinyCozyCord (ExtraDark)" and dependencies.
