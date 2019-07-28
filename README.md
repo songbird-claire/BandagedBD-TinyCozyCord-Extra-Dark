@@ -1,4 +1,5 @@
-# BandagedBD-TinyCozyCord-Extra-Dark
+# BandagedBD: TinyCozyCord (Extra Dark) 
+*A new twist on an old method of minimizing and beautifying the desktop discord app.*
 
 ![TinyCozyCord In Action](https://raw.githubusercontent.com/songbird-claire/BandagedBD-TinyCozyCord-Extra-Dark/master/discord3.gif)
 
